@@ -1,0 +1,27 @@
+,Data,Classificacao,Evolucao,CriterioConfirmacao,StatusNotificacao,Municipio,Bairro,FaixaEtaria,Sexo,RacaCor,Escolaridade,Febre,DificuldadeRespiratoria,Tosse,Coriza,DorGarganta,Diarreia,Cefaleia,ComorbidadePulmao,ComorbidadeCardio,ComorbidadeRenal,ComorbidadeDiabetes,ComorbidadeTabagismo,ComorbidadeObesidade,FicouInternado,ViagemBrasil,ViagemInternacional
+91,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,SERRA,JARDIM LIMOEIRO,10 a 19 anos,M,Branca,Ensino médio incompleto (antigo colegial ou 2º grau ),Sim,Não,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não,2.0,2.0,2.0
+128,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,VITORIA,Não Encontrado,50 a 59 anos,M,Parda,Ensino médio completo (antigo colegial ou 2º grau ) ,Não,Não,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não,,,
+299,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,SERRA,FEU ROSA,30 a 39 anos,M,Parda,Ensino médio completo (antigo colegial ou 2º grau ) ,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,,2.0,2.0
+382,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,VITORIA,MATA DA PRAIA,30 a 39 anos,F,Branca,Educação superior incompleta ,Sim,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Não,Não,Não,,2.0,2.0
+439,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,VITORIA,Não Encontrado,30 a 39 anos,M,Preta,Educação superior completa,Não,Não,Não,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não,,,
+453,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,VITORIA,Não Encontrado,50 a 59 anos,M,Branca,Educação superior completa,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,,,
+454,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,VITORIA,JARDIM CAMBURI,20 a 29 anos,F,Branca,Educação superior completa,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,,2.0,2.0
+527,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,VITORIA,JARDIM DA PENHA,20 a 29 anos,F,Branca,Educação superior completa,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,,,
+539,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,VITORIA,JARDIM CAMBURI,30 a 39 anos,M,Branca,Educação superior completa,Não,Não,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não,,,
+540,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,VITORIA,MATA DA PRAIA,40 a 49 anos,F,Branca,Educação superior completa,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,2.0,2.0,2.0
+541,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,VITORIA,JARDIM DA PENHA,30 a 39 anos,F,Branca,Educação superior completa,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,,,
+547,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,SERRA,VILA NOVA DE COLARES,30 a 39 anos,M,Branca,Educação superior completa,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,,2.0,2.0
+553,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,SAO MATEUS,SERNAMBY,30 a 39 anos,M,Branca,Educação superior completa,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,,,
+564,2020-04-18,Confirmados,Ignorado,Laboratorial,Encerrado,ALFREDO CHAVES,OURO BRANCO,20 a 29 anos,F,Branca,Educação superior completa,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,,,
+573,2020-04-18,Confirmados,Ignorado,Laboratorial,Em Aberto,COLATINA,SANTA MARGARIDA,60 a 69 anos,F,Branca,Educação superior completa,Sim,Não,Não,Não,Não,Não,Sim,Não,Não,Não,Sim,Não,Não,,,
+574,2020-04-18,Confirmados,Ignorado,Laboratorial,Em Aberto,COLATINA,CASTELO BRANCO,40 a 49 anos,F,Branca,Educação superior completa,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não,2.0,2.0,2.0
+575,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,COLATINA,Não Encontrado,60 a 69 anos,F,Branca,Educação superior completa,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não,2.0,2.0,2.0
+576,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,COLATINA,Não Encontrado,40 a 49 anos,F,Branca,Educação superior completa,Não,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não,2.0,2.0,2.0
+658,2020-04-18,Confirmados,-,-,Em Aberto,VITORIA,JARDIM DA PENHA,60 a 69 anos,M,Ignorado,Ignorado,-,-,-,-,-,-,-,-,-,-,-,-,-,9.0,9.0,9.0
+664,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,VITORIA,PRAIA DO CANTO,40 a 49 anos,F,Ignorado,Ignorado,Não,Não,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,2.0,2.0,2.0
+667,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,VITORIA,PRAIA DO CANTO,30 a 39 anos,M,Ignorado,Ignorado,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,2.0,2.0,2.0
+771,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,VITORIA,PRAIA DO CANTO,10 a 19 anos,F,Ignorado,Ignorado,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,2.0,2.0,2.0
+772,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,VITORIA,BENTO FERREIRA,40 a 49 anos,M,Ignorado,Ignorado,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,,,
+829,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,SAO MATEUS,GURIRI,80 a 89 anos,M,Ignorado,Ignorado,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,2.0,2.0,2.0
+876,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,SERRA,SÃO DIOGO I,30 a 39 anos,M,Ignorado,Ignorado,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,,,
+994,2020-04-18,Confirmados,-,Laboratorial,Em Aberto,VITORIA,SANTA HELENA,30 a 39 anos,F,Branca,Ignorado,Não,Não,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,,,
